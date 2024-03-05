@@ -1,5 +1,6 @@
 <script>
 	import MiniCard from "../components/MiniCard.svelte";
+  import prism from "$lib/assets/prism.png";
 
 </script>
 
@@ -51,7 +52,7 @@
       <strong>하지만 멋진 아이디어와 디자인, 기획, 기능적 구상이 가미된다면 그 힘은 무한하죠.</strong>
       저희 동아리를 ‘프로그래밍 동아리’가 아닌 ‘서비스 개발 동아리’로 소개하게 된 이유도 여기에 있답니다.
     </p>
-    <img src="$lib\assets\prism.png" alt="prism logo" class="prism-img" style="width: 100%;">
+    <img src={prism} alt="prism logo" class="prism-img" style="width: 100%;">
   </div>
 
   <div class="p-wrap">

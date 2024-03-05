@@ -17,12 +17,12 @@
     description="반배정을 한눈에! 새학년 반배정 확인 사이트"
     creator="권호준"
     link={img0}
-    href="https://https://myclass-banbaejung.vercel.app/"
+    href="https://myclass-banbaejung.vercel.app/"
   />
 
   <LinkCard
-    title="Myclass"
-    description="반배정을 한눈에"
+    title="세미콜론 홈페이지"
+    description="세미콜론의 공식 홈페이지"
     creator="권호준"
     link={img1}
     href="/"
