@@ -12,7 +12,7 @@
     title="Myclass"
     description="반배정을 한눈에! 새학년 반배정 확인 사이트"
     creator="권호준"
-    link="src/lib/assets/0.jpg"
+    link="$lib/assets/0.jpg"
     href="https://https://myclass-banbaejung.vercel.app/"
   />
 
@@ -20,7 +20,7 @@
     title="Myclass"
     description="반배정을 한눈에"
     creator="권호준"
-    link="src/lib/assets/1.jpg"
+    link="$lib/assets/1.jpg"
     href="/"
   />
 
@@ -28,7 +28,7 @@
     title="자연재해 서바이벌"
     description="자연재해들을 피해서 최대한 오래 살아남아야 하는 게임"
     creator="전재혁"
-    link="src/lib/assets/2.jpg"
+    link="$lib/assets/2.jpg"
     href="https://scratch.mit.edu/projects/757540875"
   />
 
@@ -36,7 +36,7 @@
     title="도담인이 자랑하는 도담중학교"
     description="도담중학교 홍보 사이트"
     creator="박인호"
-    link="src/lib/assets/3.png"
+    link="$lib/assets/3.png"
     href="https://hobakin.github.io/dodam-hongbo"
   />
 
@@ -44,7 +44,7 @@
     title="치킨 설명 사이트"
     description="여러 치킨들에 대해 알려주는 사이트"
     creator="정성훈, 도규민"
-    link="src/lib/assets/5.jpg"
+    link="$lib/assets/5.jpg"
     href="https://solarcdev.github.io/chicken-explain-jung-and-do/"
   />
 
