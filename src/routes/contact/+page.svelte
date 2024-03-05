@@ -20,7 +20,9 @@
     * 1학년, 2학년, 3학년 모두 가능합니다. 만일 20명을 초과할 시에는 그중 20명만을 받도록 하겠습니다.
   </span>
 
-  <button>세미콜론의 여정을 함께하기</button>
+  <a href="https://open.kakao.com/o/gHWMH4Zf">
+    <button>세미콜론의 여정을 함께하기</button>
+  </a>
 </div>
 
 <style>

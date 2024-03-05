@@ -22,9 +22,11 @@
         팀 세미콜론(서비스 개발 동아리)
       </span>
     </div>
-    <button class="main-join">
-      참여하기
-    </button>
+    <a href="https://open.kakao.com/o/gHWMH4Zf">
+      <button class="main-join">
+        참여하기
+      </button>
+    </a>
   </div>
 
   <div class="p-wrap">
