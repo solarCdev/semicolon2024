@@ -1,5 +1,7 @@
 <script>
   import "../style/app.css";
+  import kakao from "$lib/assets/kakao.svg";
+  import instar from "$lib/assets/instargram.svg";
   let showMenu = false;
   const toggleMenu = () => {showMenu = !showMenu};
 </script>
@@ -36,11 +38,11 @@
     </div>
     <div class="sns">
       <a href="https://open.kakao.com/o/gHWMH4Zf" target="_blank">
-        <button><img src="src/lib/assets/kakao.svg" alt="" style="width: 48px;"></button>
+        <button><img src={kakao} alt="" style="width: 48px;"></button>
       </a>
       
       <a href="https://www.instagram.com/team_semicolon.official/" target="_blank">
-        <button><img src="src/lib/assets/instargram.svg" alt="" style="width: 48px;"></button>
+        <button><img src={instar} alt="" style="width: 48px;"></button>
       </a>
     </div>
   </footer>
