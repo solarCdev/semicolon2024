@@ -64,18 +64,18 @@
       저희 동아리는 2022년 자율동아리로, 2023년 동그라미 프로젝트로 활동해왔어요. 특히 작년에는 정말 많은 프로젝트들이 만들어지게 되었죠.
       <a href="/projects">직접 보러 가보시려면 따라오세요!(바로가기)</a>
     </p>
-    <!-- <div class="link-wrap">
-      <MiniCard/>
-      <div></div>
-      <div></div>
-      <div></div>
-    </div> -->
+    <div class="link-wrap">
+      <MiniCard title="Myclass: 반배정을 한눈에" href="https://myclass-banbaejung.vercel.app/"/>
+      <MiniCard title="도담중 홍보 홈페이지." href="https://hobakin.github.io/dodam-hongbo"/>
+      <MiniCard title="자연재해 서바이벌." href="https://scratch.mit.edu/projects/757540875"/>
+      <a href="/projects"><button class="more">더보기!</button></a>
+    </div>
   </div>
 
   <div class="p-wrap">
     <h1>발전하는 팀</h1>
     <br>
-    <p> 작년의 활동 결과, 실제로 프로젝트에 어려움을 겪는 친구들이 많다는 사실을 느끼게 되었어요. 이번에는 여러분이 프로그램을 조금 더 여유있게 구상하도록 도울 것입니다.</p>
+    <p> 작년의 활동 결과, 실제로 프로젝트에 어려움을 겪는 친구들이 많다는 사실을 느끼게 되었어요. 이번에는 여러분이 <strong>프로그램을 조금 더 여유있게 구상하도록</strong> 도울 것입니다.</p>
   </div>
 </div>
 
@@ -129,5 +129,15 @@
 
   .link-wrap {
     margin-top: 24px;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    overflow-x: scroll;
+  }
+
+  .more {
+    width: 120px;
+    height: 180px;
+    margin-left: 16px;
   }
 </style>

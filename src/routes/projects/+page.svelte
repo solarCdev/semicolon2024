@@ -72,6 +72,7 @@
   h1 {
     line-height: 42px;
     margin-top: 48px;
+    margin-bottom: 120px;
   }
 
   .wrap {
